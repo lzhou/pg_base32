@@ -1,0 +1,5 @@
+# base32.control
+comment = 'Base32 encode/decode (RFC4648)'
+default_version = '1.0'
+module_pathname = '$libdir/base32'
+relocatable = true
